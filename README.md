@@ -1,2 +1,2 @@
 # TheRealPSM.github.io
-- [Yo](Yo.html)
+- [index](index.html)
