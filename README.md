@@ -1,2 +1,2 @@
 # TheRealPSM.github.io
-- [index](index.html)
+- [kage](kage.html)
